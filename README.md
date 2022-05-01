@@ -12,7 +12,6 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 - 🌱 I’m currently learning IOS & flutter
-- 👯  looking to collaborate with other content creators
 - 📫 You can shoot me an email at amira.salah.zahran@gmail.com! I'll try to respond as soon as I can
 
 ## Watch my contributions get eaten by a snake 🐍
