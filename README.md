@@ -14,7 +14,6 @@
 - 🌱 I’m currently learning IOS & flutter
 - 📫 You can shoot me an email at amira.salah.zahran@gmail.com! I'll try to respond as soon as I can
 
-## Watch my contributions get eaten by a snake 🐍
 ![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
 
 ## Languages and Tools: 
