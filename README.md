@@ -20,12 +20,13 @@
 <p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amira-zahran&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="amira-zahran" /></p>
+
 
 <p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=Amira-Zahran&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Amira-Zahran" /></p>
 <p align="right">
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amira-zahran&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="amira-zahran" /></p>
 
   <img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amira-Zahran&layout=compact&theme=radical&hide_border=true" alt="Amira-Zahran" /></p>
 
