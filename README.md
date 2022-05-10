@@ -9,7 +9,7 @@
 
 ## I'm a Flutter Developer !!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" align="right" height="200"/>
 
 - 🌱 I’m currently learning IOS & flutter
 - 📫 You can shoot me an email at amira.salah.zahran@gmail.com! I'll try to respond as soon as I can
