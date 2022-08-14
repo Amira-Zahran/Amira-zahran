@@ -3,15 +3,13 @@
 [![Linkedin:Amira](https://img.shields.io/badge/-Amira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amira-zahran-87b556175/)](https://www.linkedin.com/in/amira-zahran-87b556175/)
 ![GitHub followers](https://img.shields.io/github/followers/Amira-Zahran?label=Follow&style=social)
 
-![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://user-images.githubusercontent.com/88105077/157883808-762a27a1-c1c5-447c-80a1-fb892f511393.png)
+![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://camo.githubusercontent.com/e11434c74314f50b124eadd0b38186e3d1719d83809f828c0b613249e1148c4d/68747470733a2f2f7777772e63696f696e73696768742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30362f4e65617273686f72652d536f6674776172652d446576656c6f706d656e742e6a706567)
 
 ## 👨🏻‍💻 About Me
 
 ## I'm a Flutter Developer !!
 
-//<img alt="Night Coding" src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" align="right" height="200"/>
-
-<img alt="Night Coding" src="https://camo.githubusercontent.com/e11434c74314f50b124eadd0b38186e3d1719d83809f828c0b613249e1148c4d/68747470733a2f2f7777772e63696f696e73696768742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30362f4e65617273686f72652d536f6674776172652d446576656c6f706d656e742e6a706567" align="right" height="200"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" align="right" height="200"/>
 
 - 🌱 I’m currently learning IOS & flutter
 - 📫 You can shoot me an email at amira.salah.zahran@gmail.com! I'll try to respond as soon as I can
